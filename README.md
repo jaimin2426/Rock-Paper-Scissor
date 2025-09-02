@@ -48,9 +48,9 @@ Same choice = Draw
 Game continues until you enter n when asked.
 
 🔹 Example Play
-Player one, Enter your choice: 12345
-Player two, Enter your choice: 67890
-Player one, Enter the secret bit position: 2
-Player two, Enter the secret bit position: 4
-Player two wins!!
-Do you want to continue? y/n: n
+Player one, Enter your choice: 12345<br>
+Player two, Enter your choice: 67890<br>
+Player one, Enter the secret bit position: 2<br>
+Player two, Enter the secret bit position: 4<br>
+Player two wins!!<br>
+Do you want to continue? y/n: n<br>
